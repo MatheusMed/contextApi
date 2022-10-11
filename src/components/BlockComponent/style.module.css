@@ -1,0 +1,11 @@
+.container{
+  height: 10rem;
+  width: 10rem;
+  background-color: azure;
+  margin: 1rem;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
